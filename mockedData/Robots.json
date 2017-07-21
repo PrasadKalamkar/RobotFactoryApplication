@@ -1,0 +1,220 @@
+{
+  "robots": [
+    {
+      "id": 1,
+      "name": "R1",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 0,
+        "colour": "red"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 2,
+      "name": "R2",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "red"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 3,
+      "name": "R3",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 3,
+        "colour": "red"
+      },
+      "statuses": [
+        "on fire"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 4,
+      "name": "R4",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 2,
+        "colour": "red"
+      },
+      "statuses": [
+        "on fire"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 5,
+      "name": "R5",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 9,
+        "colour": "red"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 6,
+      "name": "R6",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 9,
+        "colour": "blue"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 7,
+      "name": "R7",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": true,
+        "hasTracks": true,
+        "numberOfRotors": 9,
+        "colour": "green"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 8,
+      "name": "R8",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": true,
+        "hasTracks": false,
+        "numberOfRotors": 9,
+        "colour": "green"
+      },
+      "statuses": [
+        "rusty"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 9,
+      "name": "R9",
+      "configuration": {
+        "hasSentience": true,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 9,
+        "colour": "green"
+      },
+      "statuses": [
+        "loose screws"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 10,
+      "name": "R10",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 1,
+        "colour": "green"
+      },
+      "statuses": [
+        "on fire"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 11,
+      "name": "R11",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 5,
+        "colour": "green"
+      },
+      "statuses": [],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 12,
+      "name": "R12",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 5,
+        "colour": "green"
+      },
+      "statuses": [
+        "paint scratched"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 13,
+      "name": "R13",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 5,
+        "colour": "green"
+      },
+      "statuses": [
+        "rusty"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    },
+    {
+      "id": 14,
+      "name": "R14",
+      "configuration": {
+        "hasSentience": false,
+        "hasWheels": false,
+        "hasTracks": false,
+        "numberOfRotors": 5,
+        "colour": "green"
+      },
+      "statuses": [
+        "loose screws"
+      ],
+      "qualityStatus": [],
+      "shipmentStatus": ""
+    }
+  ],
+  "extinguish": [
+  ],
+  "recycle": [
+  ]
+}
